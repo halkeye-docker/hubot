@@ -1,0 +1,14 @@
+[
+  "hubot-brain-inspect",
+  "hubot-bucket",
+  "hubot-diagnostics",
+  "hubot-fliptable",
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-help",
+  "hubot-postgres-brain",
+  "@halkeye/hubot-pugme-reddit",
+  "hubot-rules",
+  "hubot-rules",
+  "hubot-shipit"
+]

@@ -4,7 +4,8 @@
   "hubot-diagnostics",
   "hubot-fliptable",
   "hubot-help",
-  "hubot-postgres-brain",
+  "hubot-pokemon",
+  "@halkeye/hubot-postgres-brain",
   "@halkeye/hubot-pugme-reddit",
   "hubot-rules",
   "hubot-shipit"

@@ -17,6 +17,7 @@
     "hubot-conf": "^2.0.1",
     "hubot-diagnostics": "^1.0.0",
     "hubot-discord": "^2.1.0",
+    "hubot-domain-me": "^2.0.3",
     "hubot-fliptable": "^2.0.0",
     "hubot-help": "^1.0.1",
     "hubot-pokemon": "^0.4.7",

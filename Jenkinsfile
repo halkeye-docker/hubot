@@ -1,2 +1,3 @@
-// https://github.com/halkeye/jenkins-shared-library/blob/master/vars/buildDockerfile.groovy
+#!/usr/bin/groovy
+@Library('github.com/halkeye/jenkins-shared-library@master') _
 buildDockerfile('halkeye/hubot')

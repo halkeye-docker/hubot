@@ -21,6 +21,7 @@
     "hubot-help": "^1.0.1",
     "hubot-pokemon": "^0.4.7",
     "hubot-pugme": "^0.1.1",
+    "hubot-pwned": "^0.1.0",
     "hubot-relevant-xkcd": "^1.0.3",
     "hubot-rules": "^1.0.0",
     "hubot-scripts": "^2.17.2",

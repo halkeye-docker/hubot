@@ -5,6 +5,7 @@
   "hubot-auth-persistent",
   "hubot-relevant-xkcd",
   "hubot-xkcd",
+  "hubot-pwned",
   "hubot-brain-inspect",
   "hubot-bucket",
   "hubot-diagnostics",

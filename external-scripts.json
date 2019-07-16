@@ -4,6 +4,7 @@
   "hubot-conf",
   "hubot-auth-persistent",
   "hubot-relevant-xkcd",
+  "hubot-xkcd",
   "hubot-brain-inspect",
   "hubot-bucket",
   "hubot-diagnostics",

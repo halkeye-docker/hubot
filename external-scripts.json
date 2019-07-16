@@ -1,12 +1,15 @@
 [
+  "@halkeye/hubot-postgres-brain",
+  "@halkeye/hubot-pugme-reddit",
+  "hubot-conf",
+  "hubot-auth-persistent",
+  "hubot-relevant-xkcd",
   "hubot-brain-inspect",
   "hubot-bucket",
   "hubot-diagnostics",
   "hubot-fliptable",
   "hubot-help",
   "hubot-pokemon",
-  "@halkeye/hubot-postgres-brain",
-  "@halkeye/hubot-pugme-reddit",
   "hubot-rules",
   "hubot-shipit"
 ]

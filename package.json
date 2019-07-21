@@ -8,6 +8,7 @@
     "start": "hubot"
   },
   "dependencies": {
+    "@halkeye/hubot-devopsreactions": "^0.2.0",
     "@halkeye/hubot-postgres-brain": "0.2.0",
     "@halkeye/hubot-pugme-reddit": "0.0.1",
     "@halkeye/hubot-xkcd": "0.0.7",

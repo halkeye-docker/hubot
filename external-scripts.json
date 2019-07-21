@@ -1,4 +1,5 @@
 [
+  "@halkeye/hubot-devopsreactions",
   "@halkeye/hubot-postgres-brain",
   "@halkeye/hubot-pugme-reddit",
   "@halkeye/hubot-xkcd",

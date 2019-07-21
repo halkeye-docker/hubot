@@ -1,6 +1,6 @@
 {
   "name": "@halkeye/hubot",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": true,
   "author": "Gavin Mogan <hubot@gavinmogan.com>",
   "description": "A simple helpful robot for your Company",

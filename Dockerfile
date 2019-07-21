@@ -10,7 +10,8 @@ ENV HUBOT_NAME threepwood
 ENV EXPRESS_PORT 8000
 EXPOSE 8000
 
-COPY package.json package-lock.json external-scripts.json ./
+COPY package.json package-lock.json external-scripts.js ./
+RUN node external-scripts.js > external-scripts.json
 RUN npm install --production
 
 # Set up mandatory environment variables defaults

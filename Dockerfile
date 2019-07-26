@@ -1,4 +1,4 @@
-FROM node:12.6-alpine
+FROM node:12.7-alpine
 
 RUN addgroup -g 501 hubot && adduser -D -h /hubot -u 501 -G hubot hubot
 ENV HOME /hubot

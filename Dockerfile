@@ -1,5 +1,7 @@
 FROM node:12.7-alpine
 
+
+RUN apk add --no-cache --update python && rm -rf /var/cache/apk/*
 RUN addgroup -g 501 hubot && adduser -D -h /hubot -u 501 -G hubot hubot
 ENV HOME /hubot
 WORKDIR /hubot

@@ -24,6 +24,7 @@
     "hubot-excuse": "^1.0.0",
     "hubot-fliptable": "^2.0.0",
     "hubot-help": "^1.0.1",
+    "hubot-phrases": "^1.4.1",
     "hubot-pokemon": "^0.4.7",
     "hubot-pwned": "^0.1.0",
     "hubot-rules": "^1.0.0",

@@ -33,6 +33,6 @@
     "hubot-suggest": "^1.0.0"
   },
   "devDependencies": {
-    "np": "^5.1.1"
+    "np": "^5.1.2"
   }
 }

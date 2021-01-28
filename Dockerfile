@@ -1,4 +1,4 @@
-FROM node:15.2.0-alpine
+FROM node:15.7.0-alpine
 
 
 RUN apk add --no-cache --update python make g++ && \
